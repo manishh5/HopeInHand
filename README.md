@@ -2,6 +2,8 @@
 
 [Visit Live Site 🌐]
 https://hope-in-hand-iv1ncou6t-manishh5s-projects.vercel.app
+
+
 **Hope in Hand** is a child-focused NGO dedicated to empowering underprivileged children through education, care, and community support. This website serves as an online platform to share our mission, connect with volunteers, and spread awareness.
 
 ---
